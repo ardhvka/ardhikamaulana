@@ -1,0 +1,35 @@
+body {
+  background-color: #cec7bf;
+}
+.navbar {
+  z-index: 999;
+}
+.jumbotron {
+  padding-top: 15rem;
+  min-height: 100vh;
+  text-align: center;
+  justify-content: center;
+}
+.lead {
+  font-size: 1.1rem;
+}
+.display-4 {
+  display: flex;
+  justify-content: center;
+}
+.kartu {
+  padding-top: 4rem;
+  min-height: 100vh;
+}
+.kartu2 {
+  min-height: 100vh;
+  padding-top: 2.5rem;
+}
+.container .row .col-9 .tombol .tombol1 {
+  background-color: #2bc1ce;
+  color: #07161b;
+  font-weight: bold;
+}
+.tombol1 :hover {
+  background-color: black;
+}
