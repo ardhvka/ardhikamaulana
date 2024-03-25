@@ -10,6 +10,9 @@ body {
   text-align: center;
   justify-content: center;
 }
+.audio {
+  size: 1rem;
+}
 .lead {
   font-size: 1.1rem;
 }
