@@ -83,9 +83,18 @@ body {
 .col {
   padding-bottom: 40px;
 }
+.aboutme {
+  min-height: 100vh;
+  padding-top: 25rem;
+}
 .lead {
   font-size: 10px;
   font-family: "Lexend Tera", sans-serif;
+}
+.foot {
+  background-color: rgba(7, 22, 27, 0.8);
+  padding-top: 1rem;
+  padding-bottom: 0.6rem;
 }
 
 /* laptop */
