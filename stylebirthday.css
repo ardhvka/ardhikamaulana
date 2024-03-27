@@ -10,6 +10,9 @@ body {
   text-align: center;
   justify-content: center;
 }
+.container1 {
+  margin-top: -1rem;
+}
 .audio {
   size: 1rem;
 }
