@@ -85,7 +85,8 @@ body {
 }
 .aboutme {
   min-height: 100vh;
-  padding-top: 25rem;
+  padding-top: 20rem;
+  align-items: center;
 }
 .lead {
   font-size: 10px;
